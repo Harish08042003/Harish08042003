@@ -36,3 +36,16 @@ learning:  Apache Hudi, Spark, Concurrency, Data Modeling
 ask_me:    Java, Python, SQL, Power BI, Snowflake
 contact:   moreharish0831@gmail.com
 languages: English, Hindi, Marathi
+```
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harish08042003/Harish08042003/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harish08042003/Harish08042003/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Harish08042003/Harish08042003/output/github-snake.svg" />
+  </picture>
+</div>
